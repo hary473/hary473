@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hary473
 - 👀 I’m interested in ...Devops and Cloud
-- 🌱 I’m currently learning ... AWS
+- 🌱 I’m currently working on... AWS
 - 💞️ I’m looking to collaborate on ...AWS and Devops
 - 📫 How to reach me ...harishrj73@gmail.com
 
